@@ -23,7 +23,4 @@ aim = 0
 end
 
 puts "solution #1 #{horizontal * aim}"
-
-
-
 puts "solution #2 #{horizontal * depth}"
